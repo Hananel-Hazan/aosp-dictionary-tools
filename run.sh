@@ -1,1 +1,1 @@
-java -jar dicttool_aosp.jar makedict -s el_wordlist.combined -d main_el.dict
+java -jar dicttool_aosp.jar makedict -s hebrew-hspell.txt.combined.new -d main_he.dict

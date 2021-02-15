@@ -1,4 +1,4 @@
-cat el_full.txt | tail -n +2 | awk '{print " word="$1", f="$2}' > el_wordlist.combined
+cat hebrew-hspell.txt | tail -n +2 | awk '{print " word="$1", f="$2}' > hebrew-hspell.combined
 
 # unix timestamp
 date +%s
